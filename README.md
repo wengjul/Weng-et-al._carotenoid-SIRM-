@@ -19,3 +19,6 @@ Weng-et-al._signal position evaluation_gaussian is an example for a Gaussian fit
 Weng-et-al._signal integral evaluation_gaussian is an example for a Gaussian fit based algorithm for determination of signal integrals and integral ratios
 
 Further information and citation of the used R packages can be found in the supporting information of Weng et al.
+
+
+R version 4.2.1 (2022-06-23 ucrt)
