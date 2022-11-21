@@ -22,3 +22,6 @@ Further information and citation of the used R packages can be found in the supp
 
 
 R version 4.2.1 (2022-06-23 ucrt)
+
+Cite the code: [![DOI](https://zenodo.org/badge/569003011.svg)](https://zenodo.org/badge/latestdoi/569003011)
+
